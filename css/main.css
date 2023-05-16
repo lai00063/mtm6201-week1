@@ -1,0 +1,34 @@
+body {
+    background-color: #485d6b; 
+    font-family: "Arial", "Helvetica Neue", Helvetica, sans-serif;
+    color: white;
+    margin: 100px;
+  }
+  h1{
+    background-color: rgba(13, 49, 71, 0.441);
+    padding: 10px;
+  }
+img {
+    max-width: 150px;
+    height: auto;
+    float: left;
+    margin-right: 20px;
+  }
+  p {
+    margin-top: 0;
+  }  
+
+  .Description {
+    background-color: rgba(13, 49, 71, 0.441);
+    padding: 10px;
+  }
+  dt {
+    font-weight: bold;
+  font-size: 1.15em;
+  margin-left: 0.5em;
+  }
+  
+  dd {
+    margin: 0;
+   margin-left: 0.5em;
+  }
